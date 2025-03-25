@@ -42,6 +42,7 @@ INSTALLED_APPS = [
     'drf_spectacular',
     'core',
     'user',
+    'process_management',
 ]
 
 MIDDLEWARE = [
